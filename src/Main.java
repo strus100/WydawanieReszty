@@ -19,6 +19,10 @@ public class Main {
             max.add(0);
         }
 
+
+
+
+
         while (true) {
             System.out.println("Podaj resztę do wydania.");
             int reszta = (int) s.nextDouble() * 100;
